@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.instagram.com/i_m_dikshyant/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_am_dikshyant" height="30" width="40" /></a>
+<a href="https://www.instagram.com/dikshyant_dhungana/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dikshyantdhungana" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
