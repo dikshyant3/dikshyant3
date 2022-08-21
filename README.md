@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **web development**
 
-- 💬 Ask me about **react , CSS3
+- 👯 I'm looking to collaborate on **any topic of my interest**.
 
 - 📫 How to reach me **dikshyantdhungana@gmail.com**
 
