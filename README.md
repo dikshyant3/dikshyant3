@@ -8,7 +8,7 @@
 
 - 👯 I'm looking to collaborate on **any topic of my interest**.
 
-- 👀 I'm currently learning React.js .
+- 👀 I'm currently learning **React.js** .
 
 - 📫 How to reach me **dikshyantdhungana@gmail.com**
 
