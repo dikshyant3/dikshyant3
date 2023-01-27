@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **web development**
+- 🌱 I have deep interest in **web development**
 
 - 👯 I'm looking to collaborate on **any topic of my interest**.
 
