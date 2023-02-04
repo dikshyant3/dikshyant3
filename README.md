@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm Dikshyant.</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dikshyant3&label=Profile%20views&color=f0374b&style=flat" alt="dikshyantdhungana" /> </p>
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/TFPdmm3rdzeZ0kP3zG/giphy.gif">
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I have deep interest in **web development**
