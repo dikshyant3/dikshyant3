@@ -1,7 +1,6 @@
-# Profile
-<h1 align="center">Hi 👋, I'm Dikshyant.</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dikshyant3&label=Profile%20views&color=f0374b&style=flat" alt="dikshyantdhungana" /> </p>
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+# Dikshyant Dhungana 👋
+
+**`Full Stack development Enthusiast`**
 
 I am a passionate full stack developer who enjoys writing code, tackling complex problems and creating intuitive user interfaces. I am currently focused on learning the MERN stack which includes a robust set of technologies such as MongoDB, Express.js, React.js, and Node.js. Furthermore, I am always eager to explore new challenges and innovative solutions, while staying up-to-date with the latest web development trends and technologies. I enjoy working collaboratively with team members, prioritizing effective communication, problem-solving, and adaptability to deliver successful project outcomes.
 
