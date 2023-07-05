@@ -4,11 +4,7 @@
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I have deep interest in **web development**
-
-- 👯 I'm looking to collaborate on **any topic of my interest**.
-
-- 👀 I'm currently learning **React.js** ,**Node.js** & **Express.js**.
+I am a passionate full stack developer who enjoys writing code, tackling complex problems and creating intuitive user interfaces. I am currently focused on learning the MERN stack which includes a robust set of technologies such as MongoDB, Express.js, React.js, and Node.js. Furthermore, I am always eager to explore new challenges and innovative solutions, while staying up-to-date with the latest web development trends and technologies. I enjoy working collaboratively with team members, prioritizing effective communication, problem-solving, and adaptability to deliver successful project outcomes.
 
 - 📫 How to reach me **dikshyantdhungana@gmail.com**
 
