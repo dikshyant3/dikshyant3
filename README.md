@@ -84,6 +84,6 @@ I am a passionate full stack developer who enjoys writing code, tackling complex
     <img
         align="right"
         alt="Profile-views"
-        src="https://komarev.com/ghpvc/?username=dikshyant3&style=plastic&color=B33333"
+        src="https://komarev.com/ghpvc/?username=dikshyant3&style=plastic&color=4682B4"
     />
 </p>
