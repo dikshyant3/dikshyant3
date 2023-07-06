@@ -32,15 +32,19 @@ I am a passionate full stack developer who enjoys writing code, tackling complex
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS-%2300599C.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/TailwindCSS-%2367D2AD.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS">
+  <img src="https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=blue" alt="React">
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js">
+  <img src="https://img.shields.io/badge/MySQL-%2300599C.svg?style=for-the-badge&logo=MySQL&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
   <img src="https://img.shields.io/badge/nodejs-%2320232a.svg?style=for-the-badge&logo=nodedotjs&logoColor=%23F7DF1E" alt="NodeJS">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=yellow" alt="Python">
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=blue" alt="C++">
-  <img src="https://img.shields.io/badge/MySQL-%2300599C.svg?style=for-the-badge&logo=MySQL&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=blue" alt="React">
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
   <img src="https://img.shields.io/badge/git-%23F24E1E.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/linux-%23F24E1E.svg?style=for-the-badge&logo=linux&logoColor=white" alt="Linux">
 </p>
+
 
 
 
