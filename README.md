@@ -19,10 +19,6 @@ I am a passionate full stack developer who enjoys writing code, tackling complex
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
-  I love connecting with people and building real communities with real human beings.
-  So, if you have room for one more friend, here’s where you can find me…
-
-  <br/>
   <a href="https://linkedin.com/in/dikshyant-dhungana-22b7331a6">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
