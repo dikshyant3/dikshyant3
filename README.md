@@ -1,6 +1,6 @@
 <h1 style="border-bottom: none" align="center">
  <img 
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=4682B4&center=true&vCenter=true&width=485&lines=Hello+There+%F0%9F%91%8B;Welcome+to+Dikshyant+Dhungana's+profile!" 
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=00BFFF&center=true&vCenter=true&width=485&lines=Hello+There+%F0%9F%91%8B;Welcome+to+Dikshyant+Dhungana's+profile!" 
     alt="Typing SVG" 
 />
 
@@ -80,6 +80,6 @@ I am a passionate full stack developer who enjoys writing code, tackling complex
     <img
         align="right"
         alt="Profile-views"
-        src="https://komarev.com/ghpvc/?username=dikshyant3&style=plastic&color=4682B4"
+        src="https://komarev.com/ghpvc/?username=dikshyant3&style=plastic&color=009ACD"
     />
 </p>
