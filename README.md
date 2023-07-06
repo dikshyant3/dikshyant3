@@ -1,6 +1,6 @@
 <h1 style="border-bottom: none" align="center">
  <img 
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=0000FF&center=true&vCenter=true&width=485&lines=Hello+There+%F0%9F%91%8B;Welcome+to+Dikshyant+Dhungana's+profile!" 
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=4682B4&center=true&vCenter=true&width=485&lines=Hello+There+%F0%9F%91%8B;Welcome+to+Dikshyant+Dhungana's+profile!" 
     alt="Typing SVG" 
 />
 
@@ -25,7 +25,7 @@ I am a passionate full stack developer who enjoys writing code, tackling complex
 
 ---
 
-### 🧰 Languages and Tools
+### 🧰  Languages and Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
@@ -48,10 +48,30 @@ I am a passionate full stack developer who enjoys writing code, tackling complex
 
 
 
-### 📊 Stats
+### 📊  Stats
+<p align="center">
+    <img 
+        align="center"
+        height="150vh"
+        alt="Most-Used-Language"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=dikshyant3&show_icons=true&theme=dark&layout=compact"
+    />
+    <img
+        align="center"
+        height="150vh"
+        alt="Github-Stats"
+        src="https://github-readme-stats.vercel.app/api?username=dikshyant3&show_icons=true&theme=dark"
+    />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dikshyant3&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats" /></p>
+<p align="center"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=dikshyant3&theme=radical&hide_border=true)](https://git.io/streak-stats"/></p>
 
-<p style="margin-top:50px;">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dikshyant3&theme=radical&show_icons=true)" alt="dikshyant3" /></p>
+<hr>
 
-<p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=dikshyant3&theme=radical&hide_border=true)](https://git.io/streak-stats"/></p>
+<p align="right">
+    <img
+        align="right"
+        alt="Profile-views"
+        src="https://komarev.com/ghpvc/?username=dikshyant3&style=plastic&color=B33333"
+    />
+</p>
