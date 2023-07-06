@@ -18,10 +18,22 @@ I am a passionate full stack developer who enjoys writing code, tackling complex
    </p>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/dikshyant-dhungana-22b7331a6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dikshyantdhungana" height="30" width="40" /></a>
-<a href="https://www.instagram.com/dikshyant_dhungana/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dikshyantdhungana" height="30" width="40" /></a>
+<p align="center">
+  I love connecting with people and building real communities with real human beings.
+  So, if you have room for one more friend, here’s where you can find me…
+
+  <br/>
+  <a href="https://linkedin.com/in/dikshyant-dhungana-22b7331a6">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://twitter.com/dikdhungana2">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter">
+  </a>
+  <a href="mailto:dikshyantdhungana@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-e51d0b?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email">
+  </a>
 </p>
+
 
 ---
 
