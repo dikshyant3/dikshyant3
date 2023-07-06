@@ -25,7 +25,7 @@ I am a passionate full stack developer who enjoys writing code, tackling complex
   <a href="https://twitter.com/dikdhungana2">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter">
   </a>
-  <a href="mailto:dikshyantdhungana@gmail.com">
+  <a href="mailto:dhunganadikshyant12@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-e51d0b?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email">
   </a>
 </p>
