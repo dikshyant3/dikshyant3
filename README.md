@@ -74,6 +74,12 @@ I am a passionate full stack developer who enjoys writing code, tackling complex
 
 <p align="center"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=dikshyant3&theme=radical&hide_border=true)](https://git.io/streak-stats"/></p>
 
+
+### Hacktoberfest
+
+[![An image of @dikshyant3's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dikshyant3)](https://holopin.io/@dikshyant3)
+
+
 <hr>
 
 <p align="right">
