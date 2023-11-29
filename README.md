@@ -41,6 +41,8 @@ I am a passionate full stack developer who enjoys writing code, tackling complex
   <img src="https://img.shields.io/badge/CSS-%2300599C.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/TailwindCSS-%2367D2AD.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS">
   <img src="https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=blue" alt="React">
+  <img src="https://img.shields.io/badge/nextjs-%2361DAFB.svg?style=for-the-badge&logo=nextjs&logoColor=blue" alt="Nextjs">
+  <img src="https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=blue" alt="TypeScript">
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js">
   <img src="https://img.shields.io/badge/MySQL-%2300599C.svg?style=for-the-badge&logo=MySQL&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
