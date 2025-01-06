@@ -6,7 +6,7 @@
 
 </h1>
 
-**`Full Stack Development Enthusiast`**
+**`DevOps and Cloud Engineer`**
 
 I am a passionate full stack developer who enjoys writing code, tackling complex problems and creating intuitive user interfaces. I am currently focused on learning the NextJS with its server actions and mutations and Prisma ORM. Furthermore, I am always eager to explore new challenges and innovative solutions, while staying up-to-date with the latest web development trends and technologies. I enjoy working collaboratively with team members, prioritizing effective communication, problem-solving, and adaptability to deliver successful project outcomes.
 
